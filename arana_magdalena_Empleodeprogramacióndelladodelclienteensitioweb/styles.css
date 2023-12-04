@@ -1,0 +1,34 @@
+.formulario{
+    
+    align-items: center;
+    justify-content: center;
+    
+    background-color: #0A0433;
+    
+}
+
+.titulo_formulario{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.form_container{
+   max-width: 900px;
+   padding: 5%;
+   align-items: center;
+   color: whitesmoke;
+   justify-content: center;
+   padding-left: 30%;
+   
+}
+
+.subtitulo{
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 2%;
+
+}
+
+.fecha{
+    display: flex;
+}
